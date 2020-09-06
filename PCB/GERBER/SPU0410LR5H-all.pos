@@ -1,0 +1,14 @@
+### Module positions - created on 2020/07/04 22:19:17 ###
+### Printed by Pcbnew version kicad (5.1.2)-1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val       Package                PosX       PosY       Rot  Side
+C1        4.7u      generic-SMD1608    146.5060  -109.5300  180.0000  top
+C2        4.7u      generic-SMD1608    151.5640  -107.9900  180.0000  top
+C4        0.1u      generic-SMD1608    146.4740  -114.9900  180.0000  top
+R1        10k       generic-SMD1608    151.5800  -115.0300    0.0000  top
+R2        10k       generic-SMD1608    151.5640  -116.8500  180.0000  top
+R3        10k       generic-SMD1608    151.5660  -106.1200    0.0000  top
+RV1       500k      rcl-RTRIMCVR42A    146.7500  -106.4400   90.0000  top
+U2        LM321     SC-70-5            146.5000  -112.2600  270.0000  top
+## End

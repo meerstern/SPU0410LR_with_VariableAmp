@@ -1,0 +1,8 @@
+Elecrow PN,Parts,Value,Package,QTY,Digikey/Mouser/Manufacturer Part,Remark/ Link
+,U1,SPU0410LR5H,SPU0410LR5H,1,423-1139-1-ND,https://www.digikey.jp/product-detail/ja/knowles/SPU0410LR5H-QB-7/423-1139-1-ND/2420983
+C19666,"C2,C1",4.7u,SMD0603,2,,
+,C3,0.1u,SMD1206,1,490-1767-1-ND ,https://www.digikey.jp/product-detail/ja/murata-electronics-north-america/GRM31C5C1E104JA01L/490-1767-1-ND/587366
+C14663,C4,0.1u,SMD0603,1,,
+C25804,"R1,R2,R3",10k,SMD0603,3,,
+C23192,R4,510k,SMD0603,1,,
+,U2,TLV316,SC-70-5,1,296-47313-1-ND,https://www.digikey.jp/product-detail/ja/texas-instruments/TLV316IDCKR/296-47313-1-ND/7688323

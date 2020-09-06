@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name spu0410lr5h)(type Legacy)(uri ${KIPRJMOD}/spu0410lr5h.lib)(options "")(descr ""))
+)
